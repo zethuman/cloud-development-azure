@@ -1,0 +1,7 @@
+version: "3.0"
+
+services:
+  app:
+    image: zethuman/fakeapi:latest
+    ports:
+      - 3000:3000

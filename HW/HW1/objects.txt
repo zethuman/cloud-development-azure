@@ -1,0 +1,1 @@
+DefaultEndpointsProtocol=https;AccountName=blobstoragehw;AccountKey=3HR5896ND6rIBscnlgzTrFa/3lG1F37tOMheUqbOW6RNag/RiOe2duHrPsyK6+NVNpcnWP+ilToSe9uONY60cQ==;EndpointSuffix=core.windows.net

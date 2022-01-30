@@ -1,0 +1,26 @@
+{  
+    "product1" : {  
+       "name" : "Power bank",  
+       "description" : "20 000 mah", 
+       "price": 40,
+       "currency": "USD", 
+       "category" : "electronics",  
+       "id": 1  
+    },  
+    "product2" : {  
+        "name" : "Xiaom Poco F2 Pro",  
+        "description" : "Snapdragon 865",  
+        "price": 340,
+        "currency": "USD", 
+        "category" : "electronics",  
+        "id": 2  
+    },  
+    "product3" : {  
+        "name" : "Fill CC2",  
+        "description" : "TWS earphones",  
+        "price": 50,
+        "currency": "USD", 
+        "category" : "electronics",  
+        "id": 3  
+    }  
+ } 

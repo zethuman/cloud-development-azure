@@ -1,0 +1,14 @@
+{  
+    "category1" : {  
+       "category" : "electronics",  
+       "id": 1  
+    },  
+    "category2" : {  
+        "category" : "clothes",  
+        "id": 2  
+    },  
+    "category3" : {  
+        "category" : "house",  
+        "id": 3  
+    }  
+ } 

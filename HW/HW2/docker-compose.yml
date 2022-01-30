@@ -1,0 +1,9 @@
+version: "3.0"
+
+services:
+  app:
+    image:  zethuman/cloud-dev:latest
+    ports:
+      - 3000:3000
+    environment:
+      AZURE_STORAGE_CONNECTION_STRING: U2XpTACLB2HU5A/Gsg7qJVTrp3r/ToMiSeRYz5nnuCmGx7o9044yeLUTtDssawJMSnCnvshNmPB8RFwy0UprKQ==

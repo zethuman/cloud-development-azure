@@ -1,0 +1,7 @@
+version: "3.0"
+
+services:
+  app:
+    image: zethuman/fakeapi:hw5
+    ports:
+      - 3000:3000
